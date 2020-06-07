@@ -1,0 +1,50 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery (https://startbootstrap.com/template-overviews/thumbnail-gallery)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery/blob/master/LICENSE)
+ */
+
+body {
+  font-family: 'Cutive Mono', monospace;
+  padding-top: 54px;
+}
+
+a {
+  color: white;
+}
+
+a:focus, a:hover, a:active{
+  outline: 0;
+}
+
+h2 {
+  color: black;
+}
+
+.img-fluid {
+  border: none;
+}
+
+p a:focus, p a:hover, p a:active{
+  outline: 0;
+  text-decoration: none;  
+}
+
+button:focus, button:hover, button:active{
+  outline: 0;
+}
+
+.py-1 {
+  background-color: black;
+  color: white;
+}
+
+ul li{
+  list-style-type: none;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
